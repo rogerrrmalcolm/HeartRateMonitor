@@ -1,4 +1,4 @@
 
 
 
-Heart Rate Monitor Project for BMES- Arduini code/ Embedded C
+Heart Rate Monitor Project for BMES- Arduino code/ Embedded C
